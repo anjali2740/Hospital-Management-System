@@ -69,7 +69,7 @@ Feel free to fork the repository and submit a pull request with improvements.
 👩‍💻 Author
 Angadi Anjali
 📧 2210030411cse@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn : www.linkedin.com/in/angadi-anjali
 
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
